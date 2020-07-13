@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UTG-Alumni/precache-manifest.3288f7436e88230a1aa1bd809e305a57.js"
+  "/UTG-Alumni/precache-manifest.0fbfad6eb52ed5f1109c3206229d9069.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "utg"});
